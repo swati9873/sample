@@ -1,3 +1,4 @@
+
 package com.Github;
 
 public class Script1 {
@@ -5,6 +6,8 @@ public class Script1 {
 		System.out.println("This is my sample project");
 		System.out.println("This is my sample project");
 		System.out.println("This is my sample project");
+		System.out.println("project name is Techmax");
+
 		
 	}
 
